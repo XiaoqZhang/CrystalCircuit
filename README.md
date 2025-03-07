@@ -1,4 +1,5 @@
 # CrystalCircuit
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14989595.svg)](https://doi.org/10.5281/zenodo.14989595)
 
 The code for mapping crystal networks to electrical circuits, which can be used to estimate the thermal conductivity of structures. The generated script can be run in the Simulink module of MATLAB (version R2024b) to measure the current through the crystal network. Note that Simscape should be installed. 
 
